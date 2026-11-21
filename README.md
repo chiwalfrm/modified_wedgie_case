@@ -19,9 +19,7 @@ I believe this is much better than using electrical tape in the original design 
 
 **SECOND MODIFICATION**
 
-I also had trouble with the joystick because the socket is too small so I made it slightly larger (2.20 mm vs 1.90 mm).  Also when I push the joystick in one direction, I can see the opening underneath so I made the round disc slightly larger at 11 mm vs 10 mm.
-
-<img width="1664" height="2266" alt="image" src="https://github.com/user-attachments/assets/8ddf4f39-c6b2-4714-8892-79e941317a75" />
+I also had trouble with the joystick because the socket is too small so I made it slightly larger (2.0 mm vs 1.9 mm).  Also when I push the joystick in one direction, I can see the opening underneath so I made the round disc slightly larger at 11 mm vs 10 mm.
 
 **FINISHED**
 
