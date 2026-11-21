@@ -17,7 +17,7 @@ I believe this is much better than using electrical tape in the original design 
 
 **SECOND MODIFICATION**
 
-I also had trouble with the joystick because the socket is too small so I made it slightly larger (2.0 mm vs 1.9 mm).  At this size, the joystick 'snaps' on and does not wobble.  Also when I push the joystick in one direction, I can see the opening underneath so I made the round disc slightly larger at 11 mm vs 10 mm.
+I also had trouble with the original joystick because the socket is too small so I made it slightly larger (2.0 mm vs 1.9 mm).  At this size, the joystick 'snaps' on and does not wobble.  Also when I push the original joystick in one direction, I can see the opening underneath so I made the round disc slightly larger at 11 mm vs 10 mm.
 
 **FINISHED**
 
