@@ -15,13 +15,10 @@ This makes the build 12mm taller, so I modified the case design to be 12mm highe
 
 I believe this is much better than using electrical tape in the original design which never worked for me (probably a skills issue though).
 
-<img width="1108" height="1111" alt="image" src="https://github.com/user-attachments/assets/9de0f244-6db1-4737-ae0b-2899b3468ce5" />
-
-
 **SECOND MODIFICATION**
 
 I also had trouble with the joystick because the socket is too small so I made it slightly larger (2.0 mm vs 1.9 mm).  Also when I push the joystick in one direction, I can see the opening underneath so I made the round disc slightly larger at 11 mm vs 10 mm.
 
 **FINISHED**
 
-<img width="653" height="622" alt="image" src="https://github.com/user-attachments/assets/516db358-5c3b-4c32-ac1f-643bc9f25689" />
+<img width="1108" height="1111" alt="image" src="https://github.com/user-attachments/assets/9de0f244-6db1-4737-ae0b-2899b3468ce5" /><img width="653" height="622" alt="image" src="https://github.com/user-attachments/assets/516db358-5c3b-4c32-ac1f-643bc9f25689" />
