@@ -3,6 +3,8 @@ My modifications to the wedgie.dev case
 
 With regard to: https://github.com/clawdbotatg/wedgie-dev
 
+Note: button.stl is unchanged.
+
 **FIRST MODIFICATION**
 
 I had a lot of trouble keeping the wires of the STEMMA QT / Qwiic cable (4-pin JST-SH plug) in the holes despite using electrical tape, so I came up with a better design.
