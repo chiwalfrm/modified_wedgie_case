@@ -1,5 +1,5 @@
 # modified_wedgie_case
-Modification to the wedgie case
+Modification to the wedgie case2
 
 With regard to: https://github.com/clawdbotatg/wedgie-dev
 
