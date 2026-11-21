@@ -21,4 +21,4 @@ I also had trouble with the joystick because the socket is too small so I made i
 
 **FINISHED**
 
-<img height="622" alt="image" src="https://github.com/user-attachments/assets/9de0f244-6db1-4737-ae0b-2899b3468ce5" /> <img height="622" alt="image" src="https://github.com/user-attachments/assets/516db358-5c3b-4c32-ac1f-643bc9f25689" />
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/9de0f244-6db1-4737-ae0b-2899b3468ce5" /> <img width="325" alt="image" src="https://github.com/user-attachments/assets/516db358-5c3b-4c32-ac1f-643bc9f25689" />
