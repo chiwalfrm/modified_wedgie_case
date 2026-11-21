@@ -26,4 +26,3 @@ I also had trouble with the joystick because the socket is too small so I made i
 **CLOSE-UP**
 
 <img width="316" height="207" alt="image" src="https://github.com/user-attachments/assets/1292b6fe-dbd3-4f3b-b237-8f94244b2324" />
-
